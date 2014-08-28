@@ -1,16 +1,9 @@
-#MuraPlugin
+#MuraBulkEmailplugin
 
-This is a starter plugin to jumpstart your next Mura CMS plugin.
-
-
-##Tested With
-* Mura CMS Core Version 6.0+
-* Adobe ColdFusion 10.0.9
-* Railo 4.0.4
 
 
 ##License
-Copyright 2013 Stephen J. Withington, Jr.
+Copyright 2014 Jake T. Bourne.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this work except in compliance with the License. You may obtain a copy of the License in the LICENSE file, or at:
 
